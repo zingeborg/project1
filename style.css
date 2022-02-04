@@ -50,63 +50,51 @@ body    {background: black;}
     
     .starl1 {margin-top:35%;
                 margin-left:5%;
-                transform: rotate (0deg);
+                transform: rotate(0deg);
                 animation-name:spin-me;
                 animation-duration:2s;
                 animation-fill-mode:forwards;
                 animation-iteration-count:infinite;
                 animation-timing-function:linear;}
 
-                    @keyframes spin-me {0% {transform:rotate (0deg)};
-                                        100% {transform:rotate (359deg);}}
-
     .starl2 {margin-top:75%;
                 margin-left:20%;
-                transform: rotate (0deg);
+                transform: rotate(0deg);
                 animation-name:spin-me;
-                animation-duration:2sec;
+                animation-duration:2s;
                 animation-fill-mode:forwards;
                 animation-iteration-count:infinite;
                 animation-timing-function:linear;}
-                            
-                    @keyframes spin-me {0% {transform:rotate (0deg)};
-                                        100% {transform:rotate (359deg);}}
 
     .starl3 {margin-top:65%;
                 margin-left:35%;  
-                transform: rotate (0deg);
+                transform: rotate(0deg);
                 animation-name:spin-me;
-                animation-duration:2sec;
+                animation-duration:2s;
                 animation-fill-mode:forwards;
                 animation-iteration-count:infinite;
                 animation-timing-function:linear;}
-                                                        
-                    @keyframes spin-me {0% {transform:rotate (0deg)};
-                                        100% {transform:rotate (359deg);}}
 
     .starr1 {margin-top:3%;
                 margin-left:55%;
-                transform: rotate (0deg);
+                transform: rotate(0deg);
                 animation-name:spin-me;
-                animation-duration:2sec;
+                animation-duration:2s;
                 animation-fill-mode:forwards;
                 animation-iteration-count:infinite;
                 animation-timing-function:linear;}
-                                                        
-                    @keyframes spin-me {0% {transform:rotate (0deg)};
-                                        100% {transform:rotate (359deg);}}
 
     .starr2 {margin-top:40%;
                 margin-left:80%;  
-                transform: rotate (0deg);
-                animation-name:spin;
-                animation-duration:2sec;
+                transform: rotate(0deg);
+                animation-name:spin-me;
+                animation-duration:2s;
                 animation-fill-mode:forwards;
                 animation-iteration-count:infinite;
                 animation-timing-function:linear;}
-                                                        
-                    @keyframes spin {0% {transform:rotate (0deg)};
-                        100% {transform:rotate (359deg);}}
+    
+                @keyframes spin-me {0% {transform:rotate(0deg)}
+                                        100% {transform:rotate(359deg);}}
 
 .planeta    {position:absolute;
                 z-index:2;
