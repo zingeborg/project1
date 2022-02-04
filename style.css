@@ -37,9 +37,9 @@ body    {background: black;}
 
 .void   {position:relative;}
 
-.starl1, .starl2, .starl3, .starr1, .starr2 {width:70px;
+.starl1, .starl2, .starl3, .starr1, .starr2 {position:absolute;
                                                 z-index:2;
-                                                position:absolute;}
+                                                width:70px;}
 
     .inner, .star123 {fill:#fff;}
             
@@ -108,9 +108,10 @@ body    {background: black;}
                     @keyframes spin {0% {transform:rotate (0deg)};
                         100% {transform:rotate (359deg);}}
 
-.planeta    {margin-top:10%;
+.planeta    {position:absolute;
+                z-index:2;
+                margin-top:10%;
                 margin-left:10%;
-                position:absolute;
                 width:250px;}
 
             .planet1 {fill:#9f86db;}
@@ -122,11 +123,11 @@ body    {background: black;}
             .ring {fill:none;
                     stroke-linecap:round;}
 
-.planetb    {margin-top:65%;
+.planetb    {position:absolute;
+                z-index:2;
+                margin-top:65%;
                 margin-left:60%;
                 width:400px;
-                z-index:2;
-                position:absolute;
                 transform:rotate (0deg);
                 animation-name:orbit;
                 animation-duration:2sec;
@@ -146,12 +147,12 @@ body    {background: black;}
                                     
             .planet2 {fill:#86db8c;}
 
-.starabc    {margin:auto;
-                position:relative;
-                z-index:1;}
+.starabc    {position:relative;
+                z-index:1;
+                margin:auto;}
 
-    .stara, .starb, .starc {background:color#000;
-                            position:absolute;}
+    .stara, .starb, .starc {position:absolute;
+                            background:black;}
 
     .stara {animation-name:blinker;
             animation-duration:0.6s;
