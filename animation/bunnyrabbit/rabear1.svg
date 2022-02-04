@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 65.79 123.11">
+<defs>
+<style>
+    .rabbit  {fill:#fff;
+                stroke:#85cee0;
+                stroke-linecap:round;
+                stroke-miterlimit:10;
+                stroke-width:3px;}
+</style>
+</defs>
+<title>rabear1</title>
+    <g id="Layer_2" data-name="Layer 2">
+    <g id="rabear1">
+        <path class="rabbit" d="M6.62,93.88C5.2,89.87-5,59.56,8.13,27.42,13.56,14.12,19.42,9.26,23.19,6.85c2.07-1.33,11.18-7.17,20-4.79,15.63,4.21,19.48,31.1,20.32,37C67.84,69.2,52.85,92.1,43.6,106.13c-9.83,14.89-14.88,15.55-17,15.47C16.3,121.25,9.62,102.36,6.62,93.88Z"/>
+    </g>
+    </g>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 270.5">
+<defs>
+    <style>
+        .cls-1  {fill:#fff;
+                stroke:#85cee0;
+                stroke-linecap:round;
+                stroke-miterlimit:10;
+                stroke-width:3px;}
+        .cls-2{fill:#9f86db;}
+    </style>
+</defs>
+<title>rabbit</title>
+    <g id="Layer_2" data-name="Layer 2">
+        <g id="rabbit"><path class="cls-1" d="M31.5,222.5c1.06-7.29-2.06-13.91-7-16-7-2.95-15.43,4.11-18,11-2.87,7.69,1.56,15.27,2,16,7.16,11.86,29.64,14.61,56,8"/>
+            <ellipse class="cls-1" cx="86.5" cy="209" rx="60.5" ry="55" transform="translate(-139.42 197.81) rotate(-64.68)"/>
+            <path class="cls-1" d="M64.48,244.77c1.14-7.84-2.22-15-7.54-17.22-7.52-3.17-16.6,4.43-19.37,11.84-3.08,8.28,1.68,16.44,2.16,17.22,7.71,12.76,31.9,15.73,60.26,8.61"/>
+            <path class="cls-1" d="M59.62,200.5c-3,7.94-.43,16,4.41,18.76,6,3.41,17.11-.24,21-11"/>
+            <path class="cls-1" d="M40.5,157.5c-27,34-16.39,48.49-12,51,5.41,3.09,15.5-.22,19-10"/>
+            <circle class="cls-1" cx="100" cy="100" r="98.5"/>
+            <path class="cls-1" d="M70,112s4.5,35.5,22,4"/>
+            <circle class="cls-2" cx="32" cy="89" r="3.5"/>
+        <circle class="cls-2" cx="148.5" cy="115.5" r="3.5"/>
+        </g>
+    </g>
+</svg>

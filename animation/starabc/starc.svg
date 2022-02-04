@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 899 908.5">
+<defs>
+<style>
+    .shootc {fill:none;
+                stroke:#86db8c;
+                stroke-linecap:round;
+                stroke-miterlimit:10;
+                stroke-width:3px;}
+    .dotc {fill:#86db8c;}
+</style>
+</defs>
+<title>starc</title>
+    <g id="Layer_2" data-name="Layer 2">
+    <g id="starc">
+        <line class="shootc" x1="208.5" y1="335.5" x2="152" y2="392"/>
+        <line class="shootc" x1="489.5" y1="780.5" x2="433" y2="837"/>
+        <line class="shootc" x1="745.5" y1="66.5" x2="689" y2="123"/>
+        <circle class="dotc" cx="258.5" cy="572.5" r="8.5"/>
+        <circle class="dotc" cx="45.5" cy="893.5" r="8.5"/>
+        <circle class="dotc" cx="325.5" cy="807.5" r="8.5"/>
+        <circle class="dotc" cx="890.5" cy="883.5" r="8.5"/>
+        <circle class="dotc" cx="812.5" cy="612.5" r="8.5"/>
+        <circle class="dotc" cx="671.5" cy="470.5" r="8.5"/>
+        <circle class="dotc" cx="746.5" cy="273.5" r="8.5"/>
+        <circle class="dotc" cx="836.5" cy="31.5" r="8.5"/>
+        <circle class="dotc" cx="434.5" cy="45.5" r="8.5"/>
+        <circle class="dotc" cx="8.5" cy="8.5" r="8.5"/>
+        <circle class="dotc" cx="35.5" cy="469.5" r="8.5"/>
+        <circle class="dotc" cx="821" cy="92" r="3.5"/>
+        <circle class="dotc" cx="318" cy="63" r="3.5"/>
+        <circle class="dotc" cx="210" cy="905" r="3.5"/>
+        <line class="shootc" x1="828.5" y1="283.5" x2="817.5" y2="283.5"/>
+        <line class="shootc" x1="856.5" y1="283.5" x2="845.5" y2="283.5"/>
+        <line class="shootc" x1="837.5" y1="292.5" x2="837.5" y2="303.5"/>
+        <line class="shootc" x1="837.5" y1="264.5" x2="837.5" y2="275.5"/>
+        <line class="shootc" x1="670.5" y1="552.5" x2="659.5" y2="552.5"/>
+        <line class="shootc" x1="698.5" y1="552.5" x2="687.5" y2="552.5"/>
+        <line class="shootc" x1="679.5" y1="561.5" x2="679.5" y2="572.5"/>
+        <line class="shootc" x1="679.5" y1="533.5" x2="679.5" y2="544.5"/>
+        <line class="shootc" x1="86.5" y1="655.5" x2="75.5" y2="655.5"/>
+        <line class="shootc" x1="114.5" y1="655.5" x2="103.5" y2="655.5"/>
+        <line class="shootc" x1="95.5" y1="664.5" x2="95.5" y2="675.5"/>
+        <line class="shootc" x1="95.5" y1="636.5" x2="95.5" y2="647.5"/>
+    </g>
+    </g>
+</svg>

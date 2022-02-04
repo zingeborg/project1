@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 952 884">
+<defs>
+<style>
+    .shoota {fill:none;
+            stroke:#dbdd85;
+            stroke-linecap:round;
+            stroke-miterlimit:10;
+            stroke-width:3px;}
+    
+    .dota {fill:#dbdd85;}
+</style>
+</defs>
+<title>stara</title>
+    <g id="Layer_2" data-name="Layer 2">
+    <g id="stara">
+        <line class="shoota" x1="912.5" y1="172.5" x2="856" y2="229"/>
+        <line class="shoota" x1="753.5" y1="442.5" x2="697" y2="499"/>
+        <line class="shoota" x1="170.5" y1="544.5" x2="114" y2="601"/>
+        <circle class="dota" cx="585.5" cy="565.5" r="8.5"/>
+        <circle class="dota" cx="943.5" cy="685.5" r="8.5"/>
+        <circle class="dota" cx="650.5" cy="762.5" r="8.5"/>
+        <circle class="dota" cx="275.5" cy="599.5" r="8.5"/>
+        <circle class="dota" cx="8.5" cy="674.5" r="8.5"/>
+        <circle class="dota" cx="9.5" cy="183.5" r="8.5"/>
+        <circle class="dota" cx="651.5" cy="125.5" r="8.5"/>
+        <circle class="dota" cx="896.5" cy="78.5" r="8.5"/>
+        <circle class="dota" cx="282.5" cy="103.5" r="8.5"/>
+        <circle class="dota" cx="209.5" cy="388.5" r="8.5"/>
+        <circle class="dota" cx="685.5" cy="93.5" r="3.5"/>
+        <circle class="dota" cx="427.5" cy="808.5" r="3.5"/>
+        <circle class="dota" cx="147.5" cy="362.5" r="3.5"/>
+        <line class="shoota" x1="820.5" y1="49.5" x2="809.5" y2="49.5"/>
+        <line class="shoota" x1="848.5" y1="49.5" x2="837.5" y2="49.5"/>
+        <line class="shoota" x1="829.5" y1="58.5" x2="829.5" y2="69.5"/>
+        <line class="shoota" x1="829.5" y1="30.5" x2="829.5" y2="41.5"/>
+        <line class="shoota" x1="317.5" y1="20.5" x2="306.5" y2="20.5"/>
+        <line class="shoota" x1="345.5" y1="20.5" x2="334.5" y2="20.5"/>
+        <line class="shoota" x1="326.5" y1="29.5" x2="326.5" y2="40.5"/>
+        <line class="shoota" x1="326.5" y1="1.5" x2="326.5" y2="12.5"/>
+        <line class="shoota" x1="209.5" y1="862.5" x2="198.5" y2="862.5"/>
+        <line class="shoota" x1="237.5" y1="862.5" x2="226.5" y2="862.5"/>
+        <line class="shoota" x1="218.5" y1="871.5" x2="218.5" y2="882.5"/>
+        <line class="shoota" x1="218.5" y1="843.5" x2="218.5" y2="854.5"/>
+    </g>
+    </g>
+</svg>

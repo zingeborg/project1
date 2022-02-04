@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 65 65">
+<defs>
+<style>
+    .moon {fill:#fff;
+            stroke:#9f86db;
+            stroke-miterlimit:10;
+            stroke-width:3px;}
+</style>
+</defs>
+<title>moon</title>
+    <g id="Layer_2" data-name="Layer 2">
+    <g id="moon">
+        <circle class="moon" cx="32.5" cy="32.5" r="31"/>
+    </g>
+    </g>
+</svg>

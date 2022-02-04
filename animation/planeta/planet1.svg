@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 115 115">
+<defs>
+<style>
+    .planet1 {fill:#9f86db;
+            stroke:#dbdd85;
+            stroke-miterlimit:10;
+            stroke-width:3px;}
+</style>
+</defs>
+<title>planet1</title>
+    <g id="Layer_2" data-name="Layer 2">
+    <g id="planet1">
+        <circle class="cls-1" cx="57.5" cy="57.5" r="56"/>
+    </g></g>
+</svg>
