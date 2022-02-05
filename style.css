@@ -7,13 +7,9 @@ body    {background: black;}
                 width:400px;
                 animation: updown 4s ease infinite;}
             
-            @keyframes updown {0% {transform: translateY(-5%);}
-                                50% {transform: translateY(5%);}
-                                100% {transform: translateY(-5%);}}
-
-/*  .bunny  {width:200px;
-                z-index:3;
-                position:relative;}*/
+            @keyframes updown {0% {transform:translateY(-5%);}
+                                50% {transform:translateY(5%);}
+                                100% {transform:translateY(-5%);}}
 
         .rabbit  {fill:#fff;
                     stroke:#85cee0;
@@ -21,19 +17,7 @@ body    {background: black;}
                     stroke-miterlimit:10;
                     stroke-width:3px;}
 
-        .eye    {fill:#9f86db;}
-
-/*  .rabear1 {width:80px;
-                z-index:2;
-                position:absolute;}
-
-    .rabear2 {width:95px;
-                z-index:2;
-                position:absolute;}
-
-    .rabtail {width:80px;
-                z-index:2;
-                position:absolute;}*/ 
+        .eye    {fill:#9f86db;} 
 
 .void   {position:relative;}
 
@@ -100,7 +84,16 @@ body    {background: black;}
                 z-index:2;
                 margin-top:10%;
                 margin-left:10%;
-                width:250px;}
+                width:250px;
+                transform: rotate(0deg);
+                animation-name:tilt;
+                animation-duration:4s;
+                animation-fill-mode:forwards;
+                animation-iteration-count:infinite;
+                animation-timing-function:linear;}
+                        
+                @keyframes tilt {0% {transform:rotate(0deg)};
+                                    100% {transform:rotate(45deg);}}
 
             .planet1 {fill:#9f86db;}
     
@@ -113,16 +106,15 @@ body    {background: black;}
 
 .planetb    {position:absolute;
                 z-index:2;
-                margin-top:65%;
+                margin-top:70%;
                 margin-left:60%;
                 width:400px;
-                transform:rotate (0deg);
+                transform:rotate(0deg);
                 animation-name:orbit;
-                animation-duration:2sec;
+                animation-duration:4s;
                 animation-fill-mode:forwards;
                 animation-iteration-count:infinite;
                 animation-timing-function:linear;}
-                /*transform-origin:???;*/
                         
                 @keyframes orbit {0% {transform:rotate (0deg)};
                                     100% {transform:rotate (359deg);}}
@@ -136,11 +128,12 @@ body    {background: black;}
             .planet2 {fill:#86db8c;}
 
 .starabc    {position:relative;
-                z-index:1;
-                margin:auto;}
+                z-index:1;}
 
     .stara, .starb, .starc {position:absolute;
-                            background:black;}
+                            max-width:100vw;
+                            height:auto;
+                            object-fit:contain;}
 
     .stara {animation-name:blinker;
             animation-duration:0.6s;
@@ -188,27 +181,3 @@ body    {background: black;}
                     .blink-two {animation: blinker-two 1.4s linear infinite;}
                                                 
                             @keyframes blinker-two {100% {opacity:0;}}
-
-    .shoota {fill:none;
-                stroke:#dbdd85;
-                stroke-linecap:round;
-                stroke-miterlimit:10;
-                stroke-width:3px;}
-
-    .dota {fill:#dbdd85;}
-
-    .shootb {fill:none;
-                stroke:#9f86db;
-                stroke-linecap:round;
-                stroke-miterlimit:10;
-                stroke-width:3px;}
-
-    .dotb {fill:#9f86db;}
-
-    .shootc {fill:none;
-                stroke:#86db8c;
-                stroke-linecap:round;
-                stroke-miterlimit:10;
-                stroke-width:3px;}
-
-    .dotc {fill:#86db8c;}
