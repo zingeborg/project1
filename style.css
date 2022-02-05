@@ -52,7 +52,7 @@ body    {background: black;}
                 margin-left:5%;
                 transform: rotate(0deg);
                 animation-name:spin-me;
-                animation-duration:2s;
+                animation-duration:4s;
                 animation-fill-mode:forwards;
                 animation-iteration-count:infinite;
                 animation-timing-function:linear;}
@@ -61,7 +61,7 @@ body    {background: black;}
                 margin-left:20%;
                 transform: rotate(0deg);
                 animation-name:spin-me;
-                animation-duration:2s;
+                animation-duration:4s;
                 animation-fill-mode:forwards;
                 animation-iteration-count:infinite;
                 animation-timing-function:linear;}
@@ -70,7 +70,7 @@ body    {background: black;}
                 margin-left:35%;  
                 transform: rotate(0deg);
                 animation-name:spin-me;
-                animation-duration:2s;
+                animation-duration:4s;
                 animation-fill-mode:forwards;
                 animation-iteration-count:infinite;
                 animation-timing-function:linear;}
@@ -79,7 +79,7 @@ body    {background: black;}
                 margin-left:55%;
                 transform: rotate(0deg);
                 animation-name:spin-me;
-                animation-duration:2s;
+                animation-duration:4s;
                 animation-fill-mode:forwards;
                 animation-iteration-count:infinite;
                 animation-timing-function:linear;}
@@ -88,7 +88,7 @@ body    {background: black;}
                 margin-left:80%;  
                 transform: rotate(0deg);
                 animation-name:spin-me;
-                animation-duration:2s;
+                animation-duration:4s;
                 animation-fill-mode:forwards;
                 animation-iteration-count:infinite;
                 animation-timing-function:linear;}
